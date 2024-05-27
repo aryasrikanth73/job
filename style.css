@@ -1,0 +1,26 @@
+/* Custom CSS */
+table, th, td {
+    border: solid 1px black;
+}
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+.form-label {
+    margin-top: 10px;
+}
+.table-container {
+    margin-top: 20px;
+}
+.operations-btn {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+a{
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
